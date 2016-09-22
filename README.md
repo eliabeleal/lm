@@ -18,6 +18,7 @@ A disciplina de Linguagem de Marcação do Curso Superior de Tecnologia em Siste
   * Herança e cascata
   * Seletores, propriedades, funções, media query, at-rules
   * Definiação de layouts e estilos
+  * Animações
   * Extenções de CSS
 * XML
   * Definição
@@ -26,14 +27,14 @@ A disciplina de Linguagem de Marcação do Curso Superior de Tecnologia em Siste
 
 ## Avaliações
 
-A nota final será computado através da média aritmética das avaliações e poderá ser adicionada atividades extras.
+A nota final será computado através da média ponderada das avaliações e poderá ser adicionada atividades extras.
 
 ### Provas Prática
-* Avaliação I: HTML;
-* Avaliação II: CSS;
+* Avaliação I (30%): HTML & CSS;
+* Avaliação II (30%): HTML & CSS;
 
 ### Trabalho
-* Projeto: [A especificação do projeto](assessment/projeto.md).
+* Projeto (40%): [A especificação do projeto](assessment/projeto.md).
 
 ## Comunicação
 Toda a comunicação será realizada usando o [![Slack Status](https://ifpb.herokuapp.com/badge.svg)](https://ifpb.herokuapp.com/)
