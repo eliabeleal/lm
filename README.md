@@ -6,6 +6,8 @@ A disciplina de Linguagem de Marcação do Curso Superior de Tecnologia em Siste
 
 ## Conteúdo
 
+Dentre os principais temas que serão abordados na disciplina pode-se listar:
+
 * Estrutura da Web
   * Função do cliente e servidor HTTP
   * Componentes para construir um sistema Web
@@ -24,6 +26,8 @@ A disciplina de Linguagem de Marcação do Curso Superior de Tecnologia em Siste
   * Definição
   * Estrutura
   * Validação
+
+Além disso, é possível visualizar os detalhes do [roteiro das aulas](docs/OUTLINE.md), das [ferramentas utilizadas](docs/TOOLS.md) e de alguns [links úteis](docs/RESOURCES.md).
 
 ## Avaliações
 
