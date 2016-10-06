@@ -3,6 +3,7 @@
 ## Editor
 - [Atom](https://atom.io/):
   - [Emmet](https://atom.io/packages/emmet)
+  - [Markdow-preview-plus](https://atom.io/packages/markdown-preview-plus)
 - Mockup:
   - [Pencil Project](http://pencil.evolus.vn/)
 

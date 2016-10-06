@@ -12,7 +12,7 @@
 
 ### Links Úteis
 * HTML Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/diegocard/awesome-html5)
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Markdown ([1](https://daringfireball.net/projects/markdown/syntax) e [2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 * [Favicon](https://en.wikipedia.org/wiki/Favicon)
 * [Image Data URI](https://css-tricks.com/data-uris/)
 * HTML5: [Features](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) e  [Demo](http://html5demos.com/)

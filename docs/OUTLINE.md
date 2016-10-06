@@ -15,21 +15,23 @@
 
 - Definir o que é uma Linguagem de Marcação (LM)
   - Exemplos: Markdown, RTF, Latex, HTML, XML
-  - Navegar sobre a estrutura de uma página HTML com a ferramenta de inspecionar elemento
 - Estrutura de um documento HTML:
-  - Sintaxe: Elementos (tags), atributos e entidades
   - Estrutura básica de uma página HTML
-  - Organização: Indentação e Comentários
-- Criando uma página Web:
-  - Títulos, Parágrafos, Marcações de ênfase, Imagens
-- Estrutura de um site
+  - A essência do estilo e do comportamento nas páginas HTML
+  - Navegar sobre a estrutura de uma página HTML com a ferramenta de inspecionar elemento
+  - Sintaxe (doc w3c): Elementos (tags), atributos e entidades
+  - Organização com letras minúsculo, indentação e comentários
+- Criando uma site:
+  - Página Web com Títulos, Parágrafos, Marcações de ênfase, Imagens
+  - Estrutura de um site
 
 ### Exercício
 
   * Exercício 2.9 sobre os primeiros passos com HTML
-  * Pesquisar algum site para analisar sua estrutura com a ferramenta de inspeção de elemento
+  * Pesquisar algum site para analisar a sua estrutura utilizando a ferramenta de inspeção de elemento
 
 ## AULA 03 - ()
+
 - Criando estilos na Web:
   - Definir o que é uma Linguagem de Estilo:
     - Exemplificar: CSS, XSL, LaTeX (cls e sty)
@@ -50,6 +52,7 @@
   * Exercício 2.16: primeiros passos com CSS
 
 ## Aula 04 - ()
+
 - Listas HTML
   - estrutra (ol, ul, dl) e estilos (list-style)
 - Espaçamento, margem e dimensões
