@@ -25,51 +25,73 @@
   - Página Web com Títulos, Parágrafos, Marcações de ênfase, Imagens
   - Estrutura de um site
 
-### Exercício
+  ### Exercício
 
   * Exercício 2.9 sobre os primeiros passos com HTML
   * Pesquisar algum site para analisar a sua estrutura utilizando a ferramenta de inspeção de elemento
 
-## AULA 03 - ()
+  ## AULA 03 - (20/10)
 
 - Criando estilos na Web:
   - Definir o que é uma Linguagem de Estilo:
     - Exemplificar: CSS, XSL, LaTeX (cls e sty)
   - Declarando estilo:
+    - Como se aplica estilo ao HTML: inline, embedded, external, mix
     - Sintaxe: propriedade, seletor, função, at-rule e media query
-    - Estrutura básica: inline, embedded, external
     - Organização: indentação e comentários
   - Propriedades:
     - Tipografia (font-family)
-    - Cores (nome, hex, rgb, rgba, hsl, hsla)
-    - alinhamento e espaçamento (text-align, line-height, letter-spacing, - word-spacing, text-indent)
+    - alinhamento e espaçamento (text-align, line-height, letter-spacing, word-spacing, text-indent)
     - plano de fundo (background-image)
-    - borda (color, style, width)
+    - borda (border: color style width)
+    - Cores (background-color, border-color, color)
+      - valor cor: nome, hex, rgb, rgba, hsl, hsla
+      - https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 
 ### Exercício
 
-  * Criar estilo da página do sobre IFPB
+  * Pesquisar algum site para analisar o seu estilo utilizando a ferramenta de inspeção de elemento
   * Exercício 2.16: primeiros passos com CSS
 
-## Aula 04 - ()
+## Aula 04 - (27/10)
 
 - Listas HTML
   - estrutra (ol, ul, dl) e estilos (list-style)
 - Espaçamento, margem e dimensões
-  - padding
-  - margin
-  - height
-  - width
+  - padding, margin, height, width
 - Layout básico
-  - main, section, div, span
-- Links HTML
-  - interno, externo e misto
-- Seletores
-  - ID e filho
-- Flutuação
-  - Float
+  - main, header, footer, article, section, div, span
 
 ### Exercício
 
   * Exercícios 2.20: listas e margens
-  * Exercícios 2.22: links
+  * Analisar três estilos de layout: https://webflow.com/templates
+
+## Aula 05 - (28/10)
+- Links HTML
+  - interno, externo e mix
+  - target blank
+- Flutuação
+  - Float
+- Seletores
+  - Universal, tipo, ID, Combinação (descendência e filho)
+  - :nth-child, :hover
+- Table
+- Criando Layouts
+  - wireframe, design
+  - Display
+  - Portifólio
+    - media query
+    - at-rule
+  - Elementos
+    - icon: http://fontawesome.io/
+    - imagem: https://unsplash.com/
+    - font: https://fonts.google.com/
+
+### Exercício
+
+* Exercícios 2.22: links
+* Exercícios 2.26: seletores CSS e flutuação de elementos
+* Analisar três estilos de layout do mesmo tipo:
+    https://webflow.com/templates
+* Criar um layout blog e profile
