@@ -1,6 +1,16 @@
+/*
+colors: https://coolors.co/f0f0f0-c7c7c7-333333-888888-aaaaaa
+  #f0f0f0
+  #c7c7c7
+  #333
+  #888
+  #aaa
+  #fff
+*/
+
 @font-face {
-  scr: url(font/Lato-Regular.ttf);
   font-family: Lato, sans-serif;
+  src: url(../font/Lato-Regular.ttf);
 }
 * {
   box-sizing: border-box;
@@ -103,7 +113,7 @@ body>main>section.blog-info div.featured-posts ul li a {
   color: #aaa;
 }
 body>main>section.blog-info div.featured-posts ul li a:hover {
-  color: #333
+  color: #333;
 }
 body>main>section.blog-info div.social ul li {
   width: 14%;
