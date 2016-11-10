@@ -48,7 +48,7 @@ para que seja utilizado pelo aluno na criação da estrutura do HTML e estiliza�
   * O título apresenta cor de #333 e tamanho de texto de 30px;
   * A data de publicação e a categoria possuem a cor #969696, tamanho de fonte 12px, tamanho de linha de 125%, espaçamento entre letras de 1px e o texto em caixa alta;
   * O tamanho da linha do parágrafo de descrição do artigo é de 144%;
-  * O link “continue reading” possui borda de 20px, tamanho de fonte de 14px, cor de #333, e bordar solida com 1px de tamanho e #d3d3d3 de cor;
+  * O link “continue reading” possui borda arredondada de 20px, tamanho de fonte de 14px, cor de #333, e bordar solida com 1px de tamanho e #d3d3d3 de cor;
   * Cada artigo possui uma borda inferior sólida de 1px de tamanho e #d3d3d3 de cor;
   * Os espaçamentos entre os elementos devem ser personalizados.
 
