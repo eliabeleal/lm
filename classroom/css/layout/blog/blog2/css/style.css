@@ -1,20 +1,6 @@
-/*
-colors: https://coolors.co/333333-969696-aaaaaa-d3d3d3-dddddd
-        https://coolors.co/969696-aaaaaa-d3d3d3-dddddd-ebebeb
-  #333
-  #969696
-  #aaa
-  #d3d3d3
-  #ddd
-  #ebebeb
-  #fff
-*/
-
 @font-face {
-  font-family: 'Domine';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../font/Domine-Regular.ttf');
+  font-family: Merriweather, sans-serif;
+  src: url(../font/Merriweather-Regular.ttf);
 }
 body {
   font-family: 'Open Sans', sans-serif;
@@ -29,7 +15,7 @@ body {
 .wrapper {
   width: 940px;
   margin: auto;
-  padding: 20px 0px;
+  padding: 80px 0px;
 }
 .float-right {
   float: right;
@@ -37,67 +23,54 @@ body {
 
 /* header */
 body>header {
+  background-color: #f0f0f0;
+  text-align: center;
   border-bottom: 1px solid #ddd;
-  background-color: #333;
 }
-body>header>.wrapper {
-  padding: 30px 0px;
-}
-body>header>.wrapper>a {
-  font-family: Domine, sans-serif;
-  color: #ebebeb;
-  font-size: 25px;
-  line-height: 100%;
+body>header a.main-title {
+  display: block;
+  margin: 0px 0px 15px;
+  color: #333;
+  font-size: 35px;
+  line-height: 40px;
   font-weight: 700;
-  letter-spacing: 1px;
   text-decoration: none;
 }
-body>header nav,
-body>header ul {
-  display: inline;
-}
-body>header ul {
-  padding-left: 10px;
-  list-style: none;
-}
-body>header ul li {
-  vertical-align: top;
-  display: inline-block;
-  padding: 3px 10px;
-}
-body>header ul li a {
-  font-family: Domine, sans-serif;
-  text-transform: uppercase;
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  text-decoration: none;
-  text-transform: uppercase;
+body>header p.main-subheading {
+  width: 60%;
+  margin: auto;
+  font-family: Merriweather, serif;
+  font-size: 16px;
   color: #969696;
-  transition: color 200ms ease;
 }
-body>header ul li a.active,
-body>header ul li a:hover {
-  color: #ebebeb;
+body>header nav.social ul {
+  list-style: none;
+  vertical-align: top;
+}
+body>header nav.social ul li {
+  display: inline-block;
+  width: 24px;
+  margin: 0px 10px;
+  opacity: 0.36;
+  transition: opacity 200ms ease;
+}
+body>header nav.social ul li:hover {
+  opacity: 1;
 }
 
-/* main */
-body>main.wrapper {
-  margin: 40px auto;
-}
+/* article */
 body>main article {
-  margin: 0px 0px 40px;
+  margin: 0px 7% 40px;
   padding-bottom: 40px;
   border-bottom: 1px solid #d3d3d3;
 }
 body>main article a.post-title-link {
   display: block;
+  transition: opacity 200ms ease;
+  color: #333;
   text-decoration: none;
   font-size: 30px;
   font-weight: bold;
-  font-family: Domine, sans-serif;
-  color: #333;
-  transition: color 200ms ease;
 }
 body>main article a.post-title-link:hover {
   color: #aaa;
@@ -118,14 +91,12 @@ body>main article p.post-summary {
   margin: 0px;
   margin-bottom: 14px;
   line-height: 144%;
-  font-weight: 100;
 }
 body>main article a.button-round {
   padding: 5px 12px;
   border-radius: 20px;
-  background-color: #fff;
   font-size: 14px;
-  font-weight: 100;
+  font-weight: 400;
   text-decoration: none;
   cursor: pointer;
   color: #333;
@@ -141,7 +112,6 @@ body>main .pagination {
 body>main .pagination .button {
   padding: 11px 20px;
   border-radius: 3px;
-  background-color: #fff;
   color: #333;
   font-size: 16px;
   line-height: 20px;
@@ -156,22 +126,22 @@ body>main .pagination .button:hover {
 
 /* footer */
 body>footer {
-  background-color: #333;
+  background-color: #f0f0f0;
 }
-body>footer nav.social,
-body>footer nav.social ul {
+body>footer .wrapper {
+  padding: 18px 0px;
+}
+body>footer nav,
+body>footer nav ul {
   display: inline;
 }
-body>footer nav.social ul li {
-  margin: 0px;
+body>footer nav ul {
+  list-style: none;
+  vertical-align: top;
+}
+body>footer nav ul li {
   display: inline-block;
-}
-body>footer nav.social ul li img {
-  opacity: 0.41;
-  transition: opacity 200ms ease;
-}
-body>footer nav.social ul li img:hover {
-  opacity: 0.8;
+  margin: 0px;
 }
 body>footer a{
   margin-right: 22px;
@@ -180,10 +150,10 @@ body>footer a{
   letter-spacing: 0.5px;
   text-decoration: none;
   text-transform: uppercase;
-  color: #969696;
+  color: #aaa;
   transition: color 200ms ease;
 }
 body>footer a.active,
 body>footer a:hover {
-  color: #ebebeb;
+  color: #333;
 }
