@@ -16,7 +16,7 @@ Leia as observações a seguir:
 
 ### DESCRIÇÃO DA PROVA
 
-As questões da prova serão relacionadas ao layout da página Web da Figura 1, no qual os recursos necessários para a página serão disponibilizados através deste [link](https://github.com/ifpb/lm/blob/master/assessment/prova-html-css/code.tar.gz).
+As questões da prova serão relacionadas ao layout da página Web da Figura 1, no qual os recursos necessários para a página serão disponibilizados através deste [link](https://github.com/ifpb/lm/blob/master/assessment/prova-html-css/code.zip).
 
 *Figura 1 - Layout da página*
 
