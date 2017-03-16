@@ -24,9 +24,9 @@ Desenvolver um website com tema à escolha de cada aluno, sendo obrigatório seg
 
 * Crie uma área de Contato utilizando formulários.
 
-* Garanta que o design da págian seja responsivo, para garantir um visualização confortável nos dispositivos móveis.
+* Crie um design da página seja responsivo, para garantir uma visualização confortável nos dispositivos móveis.
 
-* Inclua algum recursos de Serviços Web.
+* Inclua algum recursos de Serviços disponíveis na Web.
 
 Para auxiliar no cálculo da nota final do projeto utilize esse checklist:
 
@@ -64,8 +64,8 @@ Os projetos declarados na disciplina são:
 **Equipe #1**: [NOME-DO-PROJETO](https://github.com/user/project)
 
 > Membros:
-* <ALUNO> - <MATRICULA>
-* <ALUNO> - <MATRICULA>
+* &lt;ALUNO> - &lt;MATRICULA>
+* &lt;ALUNO> - &lt;MATRICULA>
 
 Lembrando que cada projeto deve incluir o arquivo `README.md` no raiz do seu projeto descrevendo:
 
