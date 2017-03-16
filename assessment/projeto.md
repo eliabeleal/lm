@@ -61,11 +61,47 @@ Devido a maleabilidade do tema central do projeto, também foi definido que o te
 
 Os projetos declarados na disciplina são:
 
-**Equipe #1**: [NOME-DO-PROJETO](https://github.com/user/project)
+**Equipe #1**: [donos-do-amanha](https://github.com/marciorfp/donos-do-amanha)
 
 > Membros:
-* &lt;ALUNO> - &lt;MATRICULA>
-* &lt;ALUNO> - &lt;MATRICULA>
+Márcio Roberto Fernandes Pimenta Filho - 20162370014
+
+**Equipe #2**: [BDVideos](https://github.com/williamolima/bdvideos/)
+
+> Membros:
+William Oliveira Lima - 20162370030
+Leonan S. Batista da Silva - 20162370025
+
+**Equipe #3**: [Oficina Experimental](https://github.com/Aaronsantos/oficina-experimental)
+
+> Membros:
+Aaron Santos - 20162370007
+
+**Equipe #4**: [Projeto Cervejaria](https://github.com/andre-ez/projetocervejaria)
+
+> Membros:
+André Vieira Xavier da Costa - 2016237008
+
+**Equipe #5**: [Steven Universe](https://github.com/larissamoreira/steven-universe)
+
+> Membros:
+Larissa Moreira - 20162370005
+
+**Equipe #6**: [ESTUDANDO MÚSICA](https://github.com/elileal/Estudando_Musica)
+
+> Membros:
+Eliabe Leal - 20162370035
+
+**Equipe #7**: [MK Doceria](https://github.com/magdavrmdev/MkDoceria/)
+
+> Membros:
+Magda - 20162370015
+Kamilla - ?
+
+**Equipe #8**: [Monitoria Fundamentos de Redes de Computadores](https://github.com/jocianasv/monitoria)
+
+> Membros:
+Jociana da Costa Dias - 20162370056
 
 Lembrando que cada projeto deve incluir o arquivo `README.md` no raiz do seu projeto descrevendo:
 
